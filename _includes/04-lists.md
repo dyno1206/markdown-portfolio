@@ -1,3 +1,3 @@
-* Emoji
-* Ordered List 
-* Unordered List
+* *Emoji*
+* **Ordered List**
+* **_Unordered List_**
